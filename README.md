@@ -6,3 +6,5 @@ Robot-Pos-N1
 
 
 Robot-Pos-N2
+
+<img width="547" height="406" alt="изображение" src="https://github.com/user-attachments/assets/3843d047-d2be-4d65-abb5-9611a30d08fd" />
