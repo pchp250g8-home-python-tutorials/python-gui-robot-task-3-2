@@ -1,4 +1,4 @@
-RobotTask-3-2. Python Tutorials. Actor Robot. StepInDev Platform. GUI Application. 
+RobotTask-3-2. Python Tutorials. Actor Robot. StepInDev Platform. GUI Application.
 
 Robot-Pos-N1
 
