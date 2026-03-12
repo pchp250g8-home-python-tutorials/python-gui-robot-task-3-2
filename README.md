@@ -1,5 +1,5 @@
 RobotTask-3-2. Python Tutorials. Actor Robot. StepInDev Platform. GUI Application.
-The robot's field is 6 cells long and 6 cells wide. It has blue walls around the perimeter. 
+The robot's field is 5 cells long and 2 cells wide. It has blue walls around the perimeter. 
 The robot's starting position is marked with a blue square. 
 The robot's final position is marked with a red house. 
 Some cells have walls on the down.
@@ -9,7 +9,7 @@ Solve the problem for all robot environments (write a common code).
 The solution of the task is located in the file "Task-3-2.py".
 
 RobotTask-3-2. Занятия по Python. Исполнитель Робот. Платформа StepInDev. Приложение с графическим интерфейсом пользователя.
-Поле робота имеет размеры: длина 6 клеток, ширина 6 клеток. Оно миеет синие стены по периметру. 
+Поле робота имеет размеры: длина 5 клеток, ширина 2 клетки. Оно миеет синие стены по периметру. 
 Синим квадратом помечено начальное положение робота. 
 Конечное положение робота помечено красным домиком. 
 У некоторых клеток есть стены снизу.
