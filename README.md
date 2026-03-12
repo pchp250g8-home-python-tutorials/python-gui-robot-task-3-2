@@ -1,6 +1,23 @@
 RobotTask-3-2. Python Tutorials. Actor Robot. StepInDev Platform. GUI Application.
+The robot's field is 6 cells long and 6 cells wide. It has blue walls around the perimeter. 
+The robot's starting position is marked with a blue square. 
+The robot's final position is marked with a red house. 
+Some cells have walls on the down.
+The task is to move the robot from its starting position to its final position. 
+Along the way, color in the cells marked with an orange square (see figures). 
+Solve the problem for all robot environments (write a common code).
+The solution of the task is located in the file "Task-3-2.py".
 
 RobotTask-3-2. Занятия по Python. Исполнитель Робот. Платформа StepInDev. Приложение с графическим интерфейсом пользователя.
+Поле робота имеет размеры: длина 6 клеток, ширина 6 клеток. Оно миеет синие стены по периметру. 
+Синим квадратом помечено начальное положение робота. 
+Конечное положение робота помечено красным домиком. 
+У некоторых клеток есть стены снизу.
+Требуется переместить исполнителя из начального положения в конечное. 
+По пути следования закрасить клетки помеченные оранжевым кватратом. (см. рис.). 
+Решить задачу для всех обстановок робота (написать общий код).
+Решение задачи находится в файле "Task-3-2.py".
+
 
 Robot-Pos-N1
 
